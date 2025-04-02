@@ -9,7 +9,7 @@ import SwiftUI
 
 struct ContentView: View {
     @State private var locationInput = ""
-    @StateObject private var locationManager = LocationManager()
+    @EnvironmentObject private var locationManager: LocationManager
     
     private let primaryColor = Color(red: 0.95, green: 0.55, blue: 0.75)
     private let secondaryColor = Color(red: 0.85, green: 0.6, blue: 0.95)
