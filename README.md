@@ -21,10 +21,8 @@ A beautifully designed iOS weather app with a soft pink aesthetic, built with Sw
   </a>
 </p>
 
-<p align="center">
-  <strong>[▶️ Watch on YouTube](https://www.youtube.com/shorts/XdDr4Tv8Pkc)</strong><br>
-  <em>See Pink Weather in action — from searching locations to saving favorites</em>
-</p>
+**[▶️ Watch on YouTube](https://www.youtube.com/shorts/XdDr4Tv8Pkc)**
+
 
 
 ## 🎨 Design
