@@ -16,10 +16,7 @@ A beautifully designed iOS weather app with a soft pink aesthetic, built with Sw
 <div align="center">
 
 ### App Demo Video
-<video width="300" controls>
-  <source src="demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Pink Weather Demo](preview.png)](https://www.youtube.com/shorts/XdDr4Tv8Pkc)
 
 *See Pink Weather in action - from searching locations to saving favorites*
 
