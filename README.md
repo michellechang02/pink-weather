@@ -16,15 +16,15 @@ A beautifully designed iOS weather app with a soft pink aesthetic, built with Sw
 <div align="center">
 
 ### Home Screen with Favorites
-![Home Screen](user_home.png)
+<img src="user_home.png" width="300" alt="Home Screen">
 *Clean interface showing search bar and saved favorite locations*
 
 ### Search in Action  
-![Search Interface](user_typing.png)
+<img src="user_typing.png" width="300" alt="Search Interface">
 *User typing "New York City" in the search bar*
 
 ### Search Results
-![Search Results](user_search.png)
+<img src="user_search.png" width="300" alt="Search Results">
 *Weather results and location details*
 
 </div>
