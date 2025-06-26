@@ -22,7 +22,7 @@ A beautifully designed iOS weather app with a soft pink aesthetic, built with Sw
 </p>
 
 <div align="center">
-**[▶️ Watch on YouTube](https://www.youtube.com/shorts/XdDr4Tv8Pkc)**
+<a href="https://www.youtube.com/shorts/XdDr4Tv8Pkc">▶️ Watch on YouTube</a>
 </div>
 
 
