@@ -11,21 +11,17 @@ A beautifully designed iOS weather app with a soft pink aesthetic, built with Sw
 - **💾 Persistent Storage**: Your favorites are saved locally and persist between app launches
 - **📱 Modern SwiftUI Design**: Clean, intuitive interface with smooth animations
 
-## 📱 Screenshots
+## 🎬 Demo
 
 <div align="center">
 
-### Home Screen with Favorites
-<img src="user_home.png" width="200" alt="Home Screen">
-*Clean interface showing search bar and saved favorite locations*
+### App Demo Video
+<video width="300" controls>
+  <source src="demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
-### Search in Action  
-<img src="user_typing.png" width="200" alt="Search Interface">
-*User typing "New York City" in the search bar*
-
-### Search Results
-<img src="user_search.png" width="200" alt="Search Results">
-*Weather results and location details*
+*See Pink Weather in action - from searching locations to saving favorites*
 
 </div>
 
@@ -87,17 +83,12 @@ The design emphasizes:
 ## 📱 How to Use
 
 1. **Search for a Location**: Type any city, address, or landmark in the search field
-   
-   ![Typing in search](user_typing.png)
 
 2. **Get Weather**: Tap the "get weather" button to see current conditions
 
-   ![Search results](user_search.png)
-
 3. **Add to Favorites**: Use the heart button to save locations you check frequently
-4. **Browse Favorites**: Saved locations appear in the favorites section for quick access
 
-   ![Home with favorites](user_home.png)
+4. **Browse Favorites**: Saved locations appear in the favorites section for quick access
 
 5. **View Details**: Tap any location to see detailed weather information
 
